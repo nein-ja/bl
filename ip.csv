@@ -1,1 +1,4 @@
-1.12.128.88,1.12.128.90
+#UNIQ-NAME,VALUE,TYPE,CONFIDENCE,SEVERITY,PRODUCT,COMMENT
+observ1,1.12.128.90,IP,medium,low,AV,Test
+observ14,172.16.47.44,IP,high,medium,AB,TCP:8080
+wono-test,103.241.192.17,IP,medium,medium,KAB,gov-test
