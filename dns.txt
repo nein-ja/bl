@@ -37,7 +37,7 @@ storycentral.net
 *.cam
 *.chettikmacrli.com
 *.cloud27.xyz
-*.cloud27.xyz/
+*.cloud27.xyz
 *.cloudswiftcdn.com
 *.connectify.me
 *.coogoanu.net
@@ -56,7 +56,7 @@ storycentral.net
 *.findmyphone.club
 *.fkip.upr.ac.id
 *.foramscoypou.com
-*.form.jotform.com/242301842218044
+*.form.jotform.com242301842218044
 *.funcallback.com
 *.fusiblequaking.digital
 *.gamepass.com
@@ -71,9 +71,9 @@ storycentral.net
 *.iili.io
 *.import_doc@bskargo.com
 *.inrhyhorntor.com
-*.inrhyhorntor.com/
+*.inrhyhorntor.com
 *.inswebt.com
-*.inswebt.com/
+*.inswebt.com
 *.jagnoans.com
 *.jfjle4g5l.com
 *.jzleekzkrwmlw.top
@@ -133,7 +133,7 @@ storycentral.net
 *.restartyourchoices.com
 *.se
 *.shop
-.site/
+.site
 *.slippery-key.com
 *.sogamecdn.com
 *.sr7pv7n5x.com
@@ -167,7 +167,7 @@ storycentral.net
 *.wenoolgo.icu
 *.whiskergalaxy.com
 *.windscribe.com
-*.work.a-poster.info/
+*.work.a-poster.info
 *.xdisctracking.pw
 *.xmrig.com
 *.Xmrig.com
@@ -4691,10 +4691,10 @@ html-west.majorminers.com
 html.hashhot.com
 html.majorminers.com
 hts.youbit.co.kr
-http://fazendacristal.com
-http://www.starinxxxgkular.duckdns.org
+http:fazendacristal.com
+http:www.starinxxxgkular.duckdns.org
 httpp.gdn
-https://nam.safelink.emails.azure.net/redirect/?destination=https%3A%2F%2Fgo.microsoft.com%2Ffwlink%2F%3Flinkid%3D2230573&p=bT1lZDQ0Y2E2Ny00NmRmLTRlYmItYmQ2My1iYmI2NTVlMDE0Y2MmdT1hZW8mbD1md2xpbmtfMg%3D%3D
+https:nam.safelink.emails.azure.netredirect?destination=https%3A%2F%2Fgo.microsoft.com%2Ffwlink%2F%3Flinkid%3D2230573&p=bT1lZDQ0Y2E2Ny00NmRmLTRlYmItYmQ2My1iYmI2NTVlMDE0Y2MmdT1hZW8mbD1md2xpbmtfMg%3D%3D
 HTTPSMR.DNSX.XYZ
 hu.nanopool.org
 huabei-pool.ethfans.org
@@ -12679,7 +12679,7 @@ www.hz.hashhot.com
 www.hz.z.pool.mn
 www.i0.btcguild.com
 www.i18n.res.ethfans.org
-www.iaiglobal.or.id/v03/maintenance/store/
+www.iaiglobal.or.idv03maintenancestore
 www.icb.hashhot.com
 www.icb.pool.mn
 www.icg.hashhot.com
@@ -15560,7 +15560,7 @@ zz3r0.com
 zzec-eu2.nanopool.org
 zzqhsrg.ru
 *.vercel.app
-https://cdn.discordapp.com/attachments/995102205914918922/996654357217022023/Password-123-FullSetup.rar
+https:cdn.discordapp.comattachments995102205914918922996654357217022023Password-123-FullSetup.rar
 filenamec1.xyz
 *.yamjoop.site
 *.accidentallyrussian.com
@@ -15568,11 +15568,11 @@ filenamec1.xyz
 *.emarketnest.shop
 *.kliphigafue.shop
 *.klipdohesoo.shop
-github.com/git42025/mp4/releases/download/mp4/blueredgreen.mp4
-objects.githubusercontent.com/github-production-release-asset-2e65be/25609086
-github.com/git42025
+github.comgit42025mp4releasesdownloadmp4blueredgreen.mp4
+objects.githubusercontent.comgithub-production-release-asset-2e65be25609086
+github.comgit42025
 klipdohesoo.shop
-github.com/stascorp/rdpwrap
+github.comstascorprdpwrap
 *.boldway.shop
 *.versyasist.pics
 *.klipdywoziy.shop
